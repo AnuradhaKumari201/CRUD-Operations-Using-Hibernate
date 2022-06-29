@@ -6,7 +6,7 @@ import org.hibernate.cfg.Configuration;
 
 import com.knoldus.hibernate.demo.entity.Student;
 
-public class DeleteStudentDemo {
+public class DeleteStudentDemo1 {
 
 	
 			public static void main(String[] args) {
